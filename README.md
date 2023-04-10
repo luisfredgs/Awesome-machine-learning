@@ -33,6 +33,7 @@ Youtube is the largest academy in the world but sometimes the information overlo
 * ✅ [Alpaca: A Strong, Replicable Instruction-Following Model](https://crfm.stanford.edu/2023/03/13/alpaca.html)
 * ✅ [LLaMA: A foundational, 65-billion-parameter large language model](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/)
 * ✅ [Comments from Reddit](https://files.pushshift.io/reddit/comments/)
+* 🐐 [Cabrita: A portuguese finetuned instruction LLaMA with portuguese data](https://github.com/22-hours/cabrita)
 
 ## Visual Data Science & ML
 * ❤️ [Exploring transformer models](https://poloclub.github.io/dodrio/)
