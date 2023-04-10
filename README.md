@@ -55,3 +55,8 @@ https://www.youtube.com/playlist?list=PLwRJQ4m4UJjNymuBM9RdmB3Z9N5-0IlY0
 
 ## Model visualization
 * ❤️ Exploring transformer models: https://poloclub.github.io/dodrio/
+
+## Useful Datasets for NLP
+
+* ✅B2W Reviews - A very large dataset of customer reviews released by Americanas S.A. is now available at the Hugging Face Hub:https://huggingface.co/datasets/ruanchaves/b2w-reviews01
+* ✅IMDb PT-BR - A version of IMDb translated to brazilian portuguese: https://www.kaggle.com/datasets/luisfredgs/imdb-ptbr
