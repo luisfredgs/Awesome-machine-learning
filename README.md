@@ -1,4 +1,6 @@
-This repository compiles several knowledge sources about Data Science and Machine Learning. The list contains videos, blog posts, textbooks, GitHub, and more. If you find this repository helpful, please consider giving it a star! Your support will help me to improve and maintain this project. Thank you! 🌟🌟🌟🌟🌟
+This repository compiles several knowledge sources about Data Science and Machine Learning. The curated list contains videos, blog posts, textbooks, GitHub, and more. If you find this repository helpful, please consider giving it a star! Your support will help me to improve and maintain this project. Thank you! 🌟🌟🌟🌟🌟
+
+If you want to contribute to this list (please do), send me a pull request or [contact me](https://www.linkedin.com/in/luisfredgs).
 
 ## High-quality FREE courses on Youtube
 
@@ -92,6 +94,7 @@ Youtube is the largest academy in the world but sometimes the information overlo
 * ❤️ [Graph-MLPMixer - A Generalization of ViT/MLP-Mixer to Graphs](https://github.com/XiaoxinHe/Graph-MLPMixer)
 * ❤️ [StellarGraph - A Python library for machine learning on graphs and networks which offers state-of-the-art algorithms for graph machine learning, making it easy to discover patterns and answer questions about graph-structured data](https://github.com/stellargraph/stellargraph)
 * 👁️ [cuGraph - a monorepo that represents a collection of packages focused on GPU-accelerated graph analytics](https://github.com/rapidsai/cugraph)
+* ✅ [igraph - a fast and open source C library to manipulate and analyze graphs with interfaces in Python, R and C++](https://igraph.org/)
 
 ## Machine Learning in Rust 🦀
 * ✅[huggingface/tokenizers - The core of tokenizers, written in Rust with a focus on performance and versatility](https://github.com/huggingface/tokenizers/tree/master/tokenizers)
@@ -104,6 +107,9 @@ Youtube is the largest academy in the world but sometimes the information overlo
 * ✅ [ensmallen - a high-quality C++ library for non-linear numerical optimization, which provides many types of optimizers that can be used for virtually any numerical optimization task](https://ensmallen.org/)
 * ✅[Armadillo - C++ library for linear algebra & scientific computing. Useful for algorithm development directly in C++, or quick conversion of research code into production environments](https://arma.sourceforge.net/)
 * 📌[NumCpp: A Templatized Header Only C++ Implementation of the Python NumPy Library](https://github.com/dpilger26/NumCpp)
+* ✅[DLib - C++ toolkit containing machine learning algorithms used in both industry and academia in a wide range of domains including robotics, embedded devices, mobile phones, and large high performance computing environments.](http://dlib.net/imaging.html)
+* ✅[A deep learning framework developed with cleanliness, readability, and speed in mind](https://github.com/BVLC/caffe)
+* ✅[DyNet - A dynamic neural network library working well with networks that have dynamic structures that change for every training instance. Written in C++ with bindings in Python](https://github.com/clab/dynet)
 
 ## High Performance Dataframes
 * ✅[cuDF](https://github.com/rapidsai/cudf)
