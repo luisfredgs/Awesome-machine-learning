@@ -85,12 +85,13 @@ Youtube is the largest academy in the world but sometimes the information overlo
 * ✅[Extractive text summarization based on word frequencies and spacy](https://github.com/luisfredgs/extractive-text-summarization)
 * ✅[SimCSE: Simple Contrastive Learning of Sentence Embeddings](https://github.com/luisfredgs/SimCSE)
 * ✅[Koan - A word2vec negative sampling implementation with correct CBOW update](https://github.com/bloomberg/koan)
-### Graph Neural Networks (Hot Topic 🔥)
+### Graph AI (Hot Topic 🔥)
 * ❤️ [Pytorch Geometric - A library built upon PyTorch to easily write and train Graph Neural Networks (GNNs)](https://github.com/pyg-team/pytorch_geometric)
 * ❤️ [DGL library - An easy-to-use, high performance and scalable Python package for deep learning on graphs](https://github.com/dmlc/dgl)
 * ❤️ [PyGOD - a Python library for graph outlier detection (anomaly detection)](https://github.com/pygod-team/pygod)
 * ❤️ [Graph-MLPMixer - A Generalization of ViT/MLP-Mixer to Graphs](https://github.com/XiaoxinHe/Graph-MLPMixer)
 * ❤️ [StellarGraph - A Python library for machine learning on graphs and networks which offers state-of-the-art algorithms for graph machine learning, making it easy to discover patterns and answer questions about graph-structured data](https://github.com/stellargraph/stellargraph)
+* 👁️ [cuGraph - a monorepo that represents a collection of packages focused on GPU-accelerated graph analytics](https://github.com/rapidsai/cugraph)
 
 ## Machine Learning in Rust 🦀
 * ✅[huggingface/tokenizers - The core of tokenizers, written in Rust with a focus on performance and versatility](https://github.com/huggingface/tokenizers/tree/master/tokenizers)
