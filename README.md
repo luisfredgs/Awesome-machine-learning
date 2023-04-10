@@ -100,7 +100,7 @@ Youtube is the largest academy in the world but sometimes the information overlo
 * ✅[Polars: Blazingly fast DataFrames in Rust](https://github.com/pola-rs/polars)
 
 ## Machine Learing in C++ 💪
-* ✅ [mlpack - an intuitive, fast, and flexible header-only C++ machine learning library with bindings to other languages](https://github.com/mlpack/mlpack)
+* ❤️ [mlpack - an intuitive, fast, and flexible header-only C++ machine learning library with bindings to other languages](https://github.com/mlpack/mlpack)
 * ✅ [ensmallen - a high-quality C++ library for non-linear numerical optimization, which provides many types of optimizers that can be used for virtually any numerical optimization task](https://ensmallen.org/)
 * ✅[Armadillo - C++ library for linear algebra & scientific computing. Useful for algorithm development directly in C++, or quick conversion of research code into production environments](https://arma.sourceforge.net/)
 
