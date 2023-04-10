@@ -90,6 +90,7 @@ Youtube is the largest academy in the world but sometimes the information overlo
 * ❤️ [DGL library - An easy-to-use, high performance and scalable Python package for deep learning on graphs](https://github.com/dmlc/dgl)
 * ❤️ [PyGOD - a Python library for graph outlier detection (anomaly detection)](https://github.com/pygod-team/pygod)
 * ❤️ [Graph-MLPMixer - A Generalization of ViT/MLP-Mixer to Graphs](https://github.com/XiaoxinHe/Graph-MLPMixer)
+* ❤️ [StellarGraph - A Python library for machine learning on graphs and networks which offers state-of-the-art algorithms for graph machine learning, making it easy to discover patterns and answer questions about graph-structured data](https://github.com/stellargraph/stellargraph)
 
 ## Machine Learning in Rust 🦀
 * ✅[huggingface/tokenizers - The core of tokenizers, written in Rust with a focus on performance and versatility](https://github.com/huggingface/tokenizers/tree/master/tokenizers)
@@ -100,3 +101,7 @@ Youtube is the largest academy in the world but sometimes the information overlo
 
 ## Statistical packages in Python
 * 📌[statannotations - Python package to optionally compute statistical test and add statistical annotations on plots generated with seaborn.](https://github.com/trevismd/statannotations)
+
+## Time series 📈
+* ✅[sktime - a library for time series analysis in Python. It provides a unified interface for multiple time series learning tasks](https://github.com/sktime/sktime)
+* 📌[Darts - a Python library for user-friendly forecasting and anomaly detection on time series](https://github.com/unit8co/darts)
