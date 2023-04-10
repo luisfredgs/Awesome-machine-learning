@@ -54,9 +54,12 @@ https://www.youtube.com/playlist?list=PLwRJQ4m4UJjNymuBM9RdmB3Z9N5-0IlY0
 * ✅ CS324 - Large Language Models: https://stanford-cs324.github.io/winter2022/
 * ✅ The Illustrated Retrieval Transformer - https://jalammar.github.io/illustrated-retrieval-transformer/
 
-## Visual ML
+## Visual ML & Data Science
 * ❤️ Exploring transformer models: https://poloclub.github.io/dodrio/
-* ❤️ A visual introduction to machine learning http://www.r2d3.us/
+* ❤️ A visual introduction to machine learning: http://www.r2d3.us/
+* ❤️ How GPT3 Works - Visualizations and Animations: https://jalammar.github.io/how-gpt3-works-visualizations-animations/
+* ❤️ The illustrated Transformer: http://jalammar.github.io/illustrated-transformer/
+* ❤️ Seeing Theory - A visual introduction to probability and statistics. Also, includes a textbook called "Seeing Theory": https://seeing-theory.brown.edu/
 
 ## Useful Datasets for NLP
 
@@ -65,3 +68,7 @@ https://www.youtube.com/playlist?list=PLwRJQ4m4UJjNymuBM9RdmB3Z9N5-0IlY0
 
 ## Tutorials on Computer Vision & NLP
 * ✅Document AI: LiLT a better language agnostic LayoutLM model: https://www.philschmid.de/fine-tuning-lilt
+
+## Personal Blogs
+* ✅Distill.pub - A modern medium for presenting research that showcases AI/ML concepts in clear, dynamic and vivid form: https://distill.pub/
+* ✅Christopher Olah's Blog - OpenAI machine learning researcher who likes to understand things clearly, and explain them well: http://colah.github.io/
