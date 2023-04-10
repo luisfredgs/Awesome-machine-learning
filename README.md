@@ -1,3 +1,5 @@
+This repository compiles several knowledge sources about Data Science and Machine Learning. The list contains videos, blog posts, textbooks, GitHub, and more. If you find this repository helpful, please consider giving it a star! Your support will help me to improve and maintain this project. Thank you! 🌟
+
 ## High-quality FREE courses on Youtube
 
 Youtube is the largest academy in the world but sometimes the information overload can make it difficult to find the best materials. 
@@ -38,11 +40,13 @@ Youtube is the largest academy in the world but sometimes the information overlo
 * ✅ [The illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)
 * ❤️ [The Illustrated Retrieval Transformer](https://jalammar.github.io/illustrated-retrieval-transformer/)
 * 📌 [Seeing Theory - A visual introduction to probability and statistics. Also, includes a textbook called "Seeing Theory"](https://seeing-theory.brown.edu/)
+* ✅ [wevi: Word Embedding Visual Inspector](https://ronxin.github.io/wevi/)
 
-## Useful Datasets for NLP
+## Useful Datasets for NLP Research (e.g., text classification and sentiment analysis)
 
 * ✅[B2W Reviews - A very large dataset of customer reviews released by Americanas S.A. is now available at the Hugging Face Hub](https://huggingface.co/datasets/ruanchaves/b2w-reviews01)
 * ✅[IMDb PT-BR - A version of IMDb translated to brazilian portuguese](https://www.kaggle.com/datasets/luisfredgs/imdb-ptbr)
+* ✅[Yelp 2018 in CSV](https://www.kaggle.com/datasets/luisfredgs/yelp-reviews-csv)
 
 ## Tutorials on Computer Vision & NLP
 * ✅[Document AI: LiLT a better language agnostic LayoutLM model](https://www.philschmid.de/fine-tuning-lilt)
@@ -73,6 +77,6 @@ Youtube is the largest academy in the world but sometimes the information overlo
 * ✅[NN-SVG generates SVGs for neural net architecture schematics](https://alexlenail.me/NN-SVG/index.html)
 ### Transformers
 * ✅[State-of-the-art Machine Learning for JAX, PyTorch and TensorFlow](https://github.com/huggingface/transformers)
-### Graph Neural Networks (Hot topic 🔥)
+### Graph Neural Networks (Hot Topic 🔥)
 * ❤️ [Pytorch Geometric - A library built upon PyTorch to easily write and train Graph Neural Networks (GNNs)](https://github.com/pyg-team/pytorch_geometric)
 * ❤️ [DGL library - An easy-to-use, high performance and scalable Python package for deep learning on graphs](https://github.com/dmlc/dgl)
