@@ -33,11 +33,11 @@ Youtube is the largest academy in the world but sometimes the information overlo
 
 ## Visual Data Science & ML
 * ❤️ [Exploring transformer models](https://poloclub.github.io/dodrio/)
-* ❤️ [A visual introduction to machine learning](http://www.r2d3.us/)
-* ❤️ [How GPT3 Works - Visualizations and Animations](https://jalammar.github.io/how-gpt3-works-visualizations-animations/)
-* ❤️ [The illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)
+* ✅ [A visual introduction to machine learning](http://www.r2d3.us/)
+* ✅ [How GPT3 Works - Visualizations and Animations](https://jalammar.github.io/how-gpt3-works-visualizations-animations/)
+* ✅ [The illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)
 * ❤️ [The Illustrated Retrieval Transformer](https://jalammar.github.io/illustrated-retrieval-transformer/)
-* ❤️ [Seeing Theory - A visual introduction to probability and statistics. Also, includes a textbook called "Seeing Theory"](https://seeing-theory.brown.edu/)
+* 📌 [Seeing Theory - A visual introduction to probability and statistics. Also, includes a textbook called "Seeing Theory"](https://seeing-theory.brown.edu/)
 
 ## Useful Datasets for NLP
 
@@ -58,6 +58,7 @@ Youtube is the largest academy in the world but sometimes the information overlo
 * ✅[Autoregressive Models in Deep Learning — a Brief Survey by George Ho](https://www.georgeho.org/deep-autoregressive-models/)
 * ✅[A Brief Timeline of NLP from Bag of Words to the Transformer Family](https://medium.com/nlplanet/a-brief-timeline-of-nlp-from-bag-of-words-to-the-transformer-family-7caad8bbba56)
 * ✅[The Annotated Transformer](http://nlp.seas.harvard.edu/2018/04/03/attention.html)
+* ✅[HuggingFace: Leveraging Pre-trained Language Model Checkpoints for Encoder-Decoder Models](https://huggingface.co/blog/warm-starting-encoder-decoder)
 
 ## Top Machine Learning Books 📚
 * 📘[Pattern Recognition and Machine Learning — Christopher M. Bishop](http://amzn.to/2Dtjedd)
