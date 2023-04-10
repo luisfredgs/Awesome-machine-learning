@@ -58,3 +58,8 @@ Youtube is the largest academy in the world but sometimes the information overlo
 * ✅[Autoregressive Models in Deep Learning — a Brief Survey by George Ho](https://www.georgeho.org/deep-autoregressive-models/)
 * ✅[A Brief Timeline of NLP from Bag of Words to the Transformer Family](https://medium.com/nlplanet/a-brief-timeline-of-nlp-from-bag-of-words-to-the-transformer-family-7caad8bbba56)
 * ✅[The Annotated Transformer](http://nlp.seas.harvard.edu/2018/04/03/attention.html)
+
+## Top Machine Learning Books
+* ✅[Pattern Recognition and Machine Learning — Christopher M. Bishop](http://amzn.to/2Dtjedd)
+* ✅[Hands-On Machine Learning with Scikit-Learn, Keras, and Tensorflow: Concepts, Tools, and Techniques to Build Intelligent Systems](https://amzn.to/3mmVDDu)
+* ✅[Deep Learning — Ian Goodfellow (print)](http://amzn.to/2DKUfjd)
