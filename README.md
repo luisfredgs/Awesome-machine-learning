@@ -41,6 +41,7 @@ Youtube is the largest academy in the world but sometimes the information overlo
 * ❤️ [The Illustrated Retrieval Transformer](https://jalammar.github.io/illustrated-retrieval-transformer/)
 * 📌 [Seeing Theory - A visual introduction to probability and statistics. Also, includes a textbook called "Seeing Theory"](https://seeing-theory.brown.edu/)
 * ✅ [wevi: Word Embedding Visual Inspector](https://ronxin.github.io/wevi/)
+* ✅ [AI/ML Cheatsheets for Stanford/MIT Courses](https://stanford.edu/~shervine/)
 
 ## Useful Datasets for NLP Research (e.g., text classification and sentiment analysis)
 
@@ -80,3 +81,4 @@ Youtube is the largest academy in the world but sometimes the information overlo
 ### Graph Neural Networks (Hot Topic 🔥)
 * ❤️ [Pytorch Geometric - A library built upon PyTorch to easily write and train Graph Neural Networks (GNNs)](https://github.com/pyg-team/pytorch_geometric)
 * ❤️ [DGL library - An easy-to-use, high performance and scalable Python package for deep learning on graphs](https://github.com/dmlc/dgl)
+* ❤️ [PyGOD - a Python library for graph outlier detection (anomaly detection)](https://github.com/pygod-team/pygod)
