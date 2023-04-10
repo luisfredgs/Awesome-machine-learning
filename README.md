@@ -49,6 +49,7 @@ Youtube is the largest academy in the world but sometimes the information overlo
 * ✅[B2W Reviews - A very large dataset of customer reviews released by Americanas S.A. is now available at the Hugging Face Hub](https://huggingface.co/datasets/ruanchaves/b2w-reviews01)
 * ✅[IMDb PT-BR - A version of IMDb translated to brazilian portuguese](https://www.kaggle.com/datasets/luisfredgs/imdb-ptbr)
 * ✅[Yelp 2018 in CSV](https://www.kaggle.com/datasets/luisfredgs/yelp-reviews-csv)
+* ✅[Amazon Reviews](https://cseweb.ucsd.edu/~jmcauley/datasets.html#amazon_reviews)
 
 ## Tutorials on Computer Vision & NLP
 * ✅[Document AI: LiLT a better language agnostic LayoutLM model](https://www.philschmid.de/fine-tuning-lilt)
