@@ -41,6 +41,7 @@ https://www.youtube.com/playlist?list=PL8PYTP1V4I8D0UkqW2fEhgLrnlDW9QK7z
 * ✅Advanced NLP:
 https://www.youtube.com/playlist?list=PLWnsVgP6CzadmQX6qevbar3_vDBioWHJL
 
+Cohere
 
 ♻️
 * ❤️Foundations of Deep RL:
@@ -50,8 +51,9 @@ https://www.youtube.com/playlist?list=PLwRJQ4m4UJjNymuBM9RdmB3Z9N5-0IlY0
 * ✅Stanford: Reinforcement Learning:
 [Stanford CS234: Reinforcement Learning | Winter 2019 - YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
 
-## Large Language Models
+## NLP and Large Language Models
 * ✅ CS324 - Large Language Models: https://stanford-cs324.github.io/winter2022/
+* ✅ The Illustrated Retrieval Transformer - https://jalammar.github.io/illustrated-retrieval-transformer/
 
 ## Model visualization
 * ❤️ Exploring transformer models: https://poloclub.github.io/dodrio/
