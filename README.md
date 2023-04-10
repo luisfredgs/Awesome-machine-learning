@@ -72,3 +72,9 @@ https://www.youtube.com/playlist?list=PLwRJQ4m4UJjNymuBM9RdmB3Z9N5-0IlY0
 ## Personal Blogs
 * ✅Distill.pub - A modern medium for presenting research that showcases AI/ML concepts in clear, dynamic and vivid form: https://distill.pub/
 * ✅Christopher Olah's Blog - OpenAI machine learning researcher who likes to understand things clearly, and explain them well: http://colah.github.io/
+
+## Blog Posts
+* ✅[Multiple Classifier Systems — a brief introduction](https://medium.com/luisfredgs/multiple-classifier-systems-a-brief-introduction-71238d9c794f)
+* ✅[Automatic Text Summarization with Machine Learning — An overview](https://medium.com/luisfredgs/automatic-text-summarization-with-machine-learning-an-overview-68ded5717a25)
+* ✅[Automatic Text Summarization Made Simple with Python](https://medium.com/luisfredgs/automatic-text-summarization-made-simple-with-python-f9c3c645e34a)
+* ✅[Autoregressive Models in Deep Learning — a Brief Survey by George Ho](https://www.georgeho.org/deep-autoregressive-models/)
