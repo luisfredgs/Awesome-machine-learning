@@ -28,13 +28,15 @@ Youtube is the largest academy in the world but sometimes the information overlo
 
 ## NLP and Large Language Models
 * ✅ [CS324 - Large Language Models](https://stanford-cs324.github.io/winter2022/)
-* ✅ [The Illustrated Retrieval Transformer](https://jalammar.github.io/illustrated-retrieval-transformer/)
+* ✅ [Alpaca: A Strong, Replicable Instruction-Following Model](https://crfm.stanford.edu/2023/03/13/alpaca.html)
+* ✅ [LLaMA: A foundational, 65-billion-parameter large language model](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/)
 
 ## Visual Data Science & ML
 * ❤️ [Exploring transformer models](https://poloclub.github.io/dodrio/)
 * ❤️ [A visual introduction to machine learning](http://www.r2d3.us/)
 * ❤️ [How GPT3 Works - Visualizations and Animations](https://jalammar.github.io/how-gpt3-works-visualizations-animations/)
 * ❤️ [The illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)
+* ❤️ [The Illustrated Retrieval Transformer](https://jalammar.github.io/illustrated-retrieval-transformer/)
 * ❤️ [Seeing Theory - A visual introduction to probability and statistics. Also, includes a textbook called "Seeing Theory"](https://seeing-theory.brown.edu/)
 
 ## Useful Datasets for NLP
