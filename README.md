@@ -86,5 +86,5 @@ Youtube is the largest academy in the world but sometimes the information overlo
 ## Machine Learning in Rust 🦀
 * ✅[huggingface/tokenizers - The core of tokenizers, written in Rust with a focus on performance and versatility](https://github.com/huggingface/tokenizers/tree/master/tokenizers)
 * ✅[DimaKudosh/word2vec - Rust interface to word2vec](https://github.com/DimaKudosh/word2vec)
-* 📌[rust-ml/linfa - A Rust machine learning framework](https://github.com/rust-ml/linfa)
+* 📌[Linfa - A Rust machine learning framework](https://github.com/rust-ml/linfa)
 * 🔥[Burn - This library aims to be a comprehensive deep-learning framework in Rust that offers exceptional flexibility for both researchers and practitioners](https://github.com/burn-rs/burn)
