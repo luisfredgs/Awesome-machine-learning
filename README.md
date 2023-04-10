@@ -32,6 +32,7 @@ Youtube is the largest academy in the world but sometimes the information overlo
 * ✅ [CS324 - Large Language Models](https://stanford-cs324.github.io/winter2022/)
 * ✅ [Alpaca: A Strong, Replicable Instruction-Following Model](https://crfm.stanford.edu/2023/03/13/alpaca.html)
 * ✅ [LLaMA: A foundational, 65-billion-parameter large language model](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/)
+* ✅ [Comments from Reddit](https://files.pushshift.io/reddit/comments/)
 
 ## Visual Data Science & ML
 * ❤️ [Exploring transformer models](https://poloclub.github.io/dodrio/)
@@ -88,3 +89,4 @@ Youtube is the largest academy in the world but sometimes the information overlo
 * ✅[DimaKudosh/word2vec - Rust interface to word2vec](https://github.com/DimaKudosh/word2vec)
 * 📌[Linfa - Provide a comprehensive toolkit to build Machine Learning applications with Rust in spirit to Python's scikit-learn](https://github.com/rust-ml/linfa)
 * 🔥[Burn - This library aims to be a comprehensive deep-learning framework in Rust that offers exceptional flexibility for both researchers and practitioners](https://github.com/burn-rs/burn)
+* ✅[Polars: Blazingly fast DataFrames in Rust](https://github.com/pola-rs/polars)
