@@ -50,5 +50,8 @@ https://www.youtube.com/playlist?list=PLwRJQ4m4UJjNymuBM9RdmB3Z9N5-0IlY0
 * ✅Stanford: Reinforcement Learning:
 [Stanford CS234: Reinforcement Learning | Winter 2019 - YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
 
+## Large Language Models
+* ✅ CS324 - Large Language Models: https://stanford-cs324.github.io/winter2022/
+
 ## Model visualization
 * ❤️ Exploring transformer models: https://poloclub.github.io/dodrio/
