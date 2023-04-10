@@ -30,12 +30,12 @@ Youtube is the largest academy in the world but sometimes the information overlo
 * ✅ [CS324 - Large Language Models](https://stanford-cs324.github.io/winter2022/)
 * ✅ [The Illustrated Retrieval Transformer](https://jalammar.github.io/illustrated-retrieval-transformer/)
 
-## Visual ML & Data Science
-* ❤️ Exploring transformer models: https://poloclub.github.io/dodrio/
-* ❤️ A visual introduction to machine learning: http://www.r2d3.us/
-* ❤️ How GPT3 Works - Visualizations and Animations: https://jalammar.github.io/how-gpt3-works-visualizations-animations/
-* ❤️ The illustrated Transformer: http://jalammar.github.io/illustrated-transformer/
-* ❤️ Seeing Theory - A visual introduction to probability and statistics. Also, includes a textbook called "Seeing Theory": https://seeing-theory.brown.edu/
+## Visual Data Science & ML
+* ❤️ [Exploring transformer models](https://poloclub.github.io/dodrio/)
+* ❤️ [A visual introduction to machine learning](http://www.r2d3.us/)
+* ❤️ [How GPT3 Works - Visualizations and Animations](https://jalammar.github.io/how-gpt3-works-visualizations-animations/)
+* ❤️ [The illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)
+* ❤️ [Seeing Theory - A visual introduction to probability and statistics. Also, includes a textbook called "Seeing Theory"](https://seeing-theory.brown.edu/)
 
 ## Useful Datasets for NLP
 
@@ -57,12 +57,19 @@ Youtube is the largest academy in the world but sometimes the information overlo
 * ✅[A Brief Timeline of NLP from Bag of Words to the Transformer Family](https://medium.com/nlplanet/a-brief-timeline-of-nlp-from-bag-of-words-to-the-transformer-family-7caad8bbba56)
 * ✅[The Annotated Transformer](http://nlp.seas.harvard.edu/2018/04/03/attention.html)
 
-## Top Machine Learning Books
-* ✅[Pattern Recognition and Machine Learning — Christopher M. Bishop](http://amzn.to/2Dtjedd)
-* ✅[Hands-On Machine Learning with Scikit-Learn, Keras, and Tensorflow: Concepts, Tools, and Techniques to Build Intelligent Systems](https://amzn.to/3mmVDDu)
-* ✅[Deep Learning — Ian Goodfellow (print)](http://amzn.to/2DKUfjd)
+## Top Machine Learning Books 📚
+* 📘[Pattern Recognition and Machine Learning — Christopher M. Bishop](http://amzn.to/2Dtjedd)
+* 📙[Hands-On Machine Learning with Scikit-Learn, Keras, and Tensorflow: Concepts, Tools, and Techniques to Build Intelligent Systems](https://amzn.to/3mmVDDu)
+* 📗[Deep Learning — Ian Goodfellow (print)](http://amzn.to/2DKUfjd)
+* 📕[Mathematics for Machine Learning](https://amzn.to/3KnT6AN)
+* ❤️[Redes Neurais: Princípios e Prática ](https://amzn.to/3nZpq5x)
 
 ## Github Repositories
 ### Neural Net Drawing Libraries
 * ✅[PlotNeuralNet generates LaTeX code for drawing neural networks for publications and presentations](https://github.com/HarisIqbal88/PlotNeuralNet/)
 * ✅[NN-SVG generates SVGs for neural net architecture schematics](https://alexlenail.me/NN-SVG/index.html)
+### Transformers
+* ✅[State-of-the-art Machine Learning for JAX, PyTorch and TensorFlow](https://github.com/huggingface/transformers)
+### Graph Neural Networks (Hot topic 🔥)
+* ❤️ [Pytorch Geometric - A library built upon PyTorch to easily write and train Graph Neural Networks (GNNs)](https://github.com/pyg-team/pytorch_geometric)
+* ❤️ [DGL library - An easy-to-use, high performance and scalable Python package for deep learning on graphs](https://github.com/dmlc/dgl)
