@@ -1,4 +1,4 @@
-This repository compiles several knowledge sources about Data Science and Machine Learning. The list contains videos, blog posts, textbooks, GitHub, and more. If you find this repository helpful, please consider giving it a star! Your support will help me to improve and maintain this project. Thank you! 🌟
+This repository compiles several knowledge sources about Data Science and Machine Learning. The list contains videos, blog posts, textbooks, GitHub, and more. If you find this repository helpful, please consider giving it a star! Your support will help me to improve and maintain this project. Thank you! 🌟🌟🌟🌟🌟
 
 ## High-quality FREE courses on Youtube
 
