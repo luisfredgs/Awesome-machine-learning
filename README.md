@@ -41,7 +41,6 @@ https://www.youtube.com/playlist?list=PL8PYTP1V4I8D0UkqW2fEhgLrnlDW9QK7z
 * ✅Advanced NLP:
 https://www.youtube.com/playlist?list=PLWnsVgP6CzadmQX6qevbar3_vDBioWHJL
 
-Cohere
 
 ♻️
 * ❤️Foundations of Deep RL:
@@ -55,8 +54,9 @@ https://www.youtube.com/playlist?list=PLwRJQ4m4UJjNymuBM9RdmB3Z9N5-0IlY0
 * ✅ CS324 - Large Language Models: https://stanford-cs324.github.io/winter2022/
 * ✅ The Illustrated Retrieval Transformer - https://jalammar.github.io/illustrated-retrieval-transformer/
 
-## Model visualization
+## Visual ML
 * ❤️ Exploring transformer models: https://poloclub.github.io/dodrio/
+* ❤️ A visual introduction to machine learning http://www.r2d3.us/
 
 ## Useful Datasets for NLP
 
