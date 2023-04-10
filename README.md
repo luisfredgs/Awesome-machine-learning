@@ -61,3 +61,8 @@ Youtube is the largest academy in the world but sometimes the information overlo
 * ✅[Pattern Recognition and Machine Learning — Christopher M. Bishop](http://amzn.to/2Dtjedd)
 * ✅[Hands-On Machine Learning with Scikit-Learn, Keras, and Tensorflow: Concepts, Tools, and Techniques to Build Intelligent Systems](https://amzn.to/3mmVDDu)
 * ✅[Deep Learning — Ian Goodfellow (print)](http://amzn.to/2DKUfjd)
+
+## Github Repositories
+### Neural Net Drawing Libraries
+* ✅[PlotNeuralNet generates LaTeX code for drawing neural networks for publications and presentations](https://github.com/HarisIqbal88/PlotNeuralNet/)
+* ✅[NN-SVG generates SVGs for neural net architecture schematics](https://alexlenail.me/NN-SVG/index.html)
