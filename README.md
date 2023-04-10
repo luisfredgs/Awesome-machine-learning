@@ -57,3 +57,4 @@ Youtube is the largest academy in the world but sometimes the information overlo
 * ✅[Automatic Text Summarization Made Simple with Python](https://medium.com/luisfredgs/automatic-text-summarization-made-simple-with-python-f9c3c645e34a)
 * ✅[Autoregressive Models in Deep Learning — a Brief Survey by George Ho](https://www.georgeho.org/deep-autoregressive-models/)
 * ✅[A Brief Timeline of NLP from Bag of Words to the Transformer Family](https://medium.com/nlplanet/a-brief-timeline-of-nlp-from-bag-of-words-to-the-transformer-family-7caad8bbba56)
+* ✅[The Annotated Transformer](http://nlp.seas.harvard.edu/2018/04/03/attention.html)
