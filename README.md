@@ -76,6 +76,7 @@ Youtube is the largest academy in the world but sometimes the information overlo
 * 📗[Deep Learning — Ian Goodfellow (print)](http://amzn.to/2DKUfjd)
 * 📕[Mathematics for Machine Learning](https://amzn.to/3KnT6AN)
 * ❤️[Redes Neurais: Princípios e Prática ](https://amzn.to/3nZpq5x)
+* 📌[Graph-Powered Machine Learning (English Edition)](https://amzn.to/3mnlMlz)
 
 ## Github Repositories
 ### Neural Net Drawing Libraries
