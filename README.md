@@ -86,6 +86,7 @@ Youtube is the largest academy in the world but sometimes the information overlo
 * ❤️ [Pytorch Geometric - A library built upon PyTorch to easily write and train Graph Neural Networks (GNNs)](https://github.com/pyg-team/pytorch_geometric)
 * ❤️ [DGL library - An easy-to-use, high performance and scalable Python package for deep learning on graphs](https://github.com/dmlc/dgl)
 * ❤️ [PyGOD - a Python library for graph outlier detection (anomaly detection)](https://github.com/pygod-team/pygod)
+* ❤️ [Graph-MLPMixer - A Generalization of ViT/MLP-Mixer to Graphs](https://github.com/XiaoxinHe/Graph-MLPMixer)
 
 ## Machine Learning in Rust 🦀
 * ✅[huggingface/tokenizers - The core of tokenizers, written in Rust with a focus on performance and versatility](https://github.com/huggingface/tokenizers/tree/master/tokenizers)
