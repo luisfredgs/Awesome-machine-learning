@@ -60,3 +60,6 @@ https://www.youtube.com/playlist?list=PLwRJQ4m4UJjNymuBM9RdmB3Z9N5-0IlY0
 
 * ✅B2W Reviews - A very large dataset of customer reviews released by Americanas S.A. is now available at the Hugging Face Hub:https://huggingface.co/datasets/ruanchaves/b2w-reviews01
 * ✅IMDb PT-BR - A version of IMDb translated to brazilian portuguese: https://www.kaggle.com/datasets/luisfredgs/imdb-ptbr
+
+## Tutorials on Computer Vision & NLP
+* ✅Document AI: LiLT a better language agnostic LayoutLM model: https://www.philschmid.de/fine-tuning-lilt
