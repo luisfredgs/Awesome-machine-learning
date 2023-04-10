@@ -83,6 +83,8 @@ Youtube is the largest academy in the world but sometimes the information overlo
 * ✅[State-of-the-art Machine Learning for JAX, PyTorch and TensorFlow](https://github.com/huggingface/transformers)
 * ✅[This code implements the summarization of text documents using Latent Semantic Analysis](https://github.com/luisfredgs/LSA-Text-Summarization)
 * ✅[Extractive text summarization based on word frequencies and spacy](https://github.com/luisfredgs/extractive-text-summarization)
+* ✅[SimCSE: Simple Contrastive Learning of Sentence Embeddings](https://github.com/luisfredgs/SimCSE)
+* ✅[Koan - A word2vec negative sampling implementation with correct CBOW update](https://github.com/bloomberg/koan)
 ### Graph Neural Networks (Hot Topic 🔥)
 * ❤️ [Pytorch Geometric - A library built upon PyTorch to easily write and train Graph Neural Networks (GNNs)](https://github.com/pyg-team/pytorch_geometric)
 * ❤️ [DGL library - An easy-to-use, high performance and scalable Python package for deep learning on graphs](https://github.com/dmlc/dgl)
@@ -95,3 +97,6 @@ Youtube is the largest academy in the world but sometimes the information overlo
 * 📌[Linfa - Provide a comprehensive toolkit to build Machine Learning applications with Rust in spirit to Python's scikit-learn](https://github.com/rust-ml/linfa)
 * 🔥[Burn - This library aims to be a comprehensive deep-learning framework in Rust that offers exceptional flexibility for both researchers and practitioners](https://github.com/burn-rs/burn)
 * ✅[Polars: Blazingly fast DataFrames in Rust](https://github.com/pola-rs/polars)
+
+## Statistical packages in Python
+* 📌[statannotations - Python package to optionally compute statistical test and add statistical annotations on plots generated with seaborn.](https://github.com/trevismd/statannotations)
