@@ -78,8 +78,10 @@ Youtube is the largest academy in the world but sometimes the information overlo
 ### Neural Net Drawing Libraries
 * ✅[PlotNeuralNet generates LaTeX code for drawing neural networks for publications and presentations](https://github.com/HarisIqbal88/PlotNeuralNet/)
 * ✅[NN-SVG generates SVGs for neural net architecture schematics](https://alexlenail.me/NN-SVG/index.html)
-### Transformers
+### Transformers and NLP
 * ✅[State-of-the-art Machine Learning for JAX, PyTorch and TensorFlow](https://github.com/huggingface/transformers)
+* ✅[This code implements the summarization of text documents using Latent Semantic Analysis](https://github.com/luisfredgs/LSA-Text-Summarization)
+* ✅[Extractive text summarization based on word frequencies and spacy](https://github.com/luisfredgs/extractive-text-summarization)
 ### Graph Neural Networks (Hot Topic 🔥)
 * ❤️ [Pytorch Geometric - A library built upon PyTorch to easily write and train Graph Neural Networks (GNNs)](https://github.com/pyg-team/pytorch_geometric)
 * ❤️ [DGL library - An easy-to-use, high performance and scalable Python package for deep learning on graphs](https://github.com/dmlc/dgl)
