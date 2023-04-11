@@ -59,6 +59,7 @@ If you want to contribute to this list (please do), send me a pull request or [c
 ## Personal Blogs
 * ✅[Distill.pub](https://distill.pub/) - A modern medium for presenting research that showcases AI/ML concepts in clear, dynamic and vivid form
 * ✅[Christopher Olah's Blog](http://colah.github.io/) - OpenAI machine learning researcher who likes to understand things clearly, and explain them well
+* ✅[Jay Alammar](https://jalammar.github.io/) - Visualizing machine learning one concept at a time
 
 ## Blog Posts
 * ✅[Multiple Classifier Systems — a brief introduction](https://medium.com/luisfredgs/multiple-classifier-systems-a-brief-introduction-71238d9c794f)
