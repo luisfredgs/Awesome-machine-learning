@@ -44,6 +44,7 @@ If you want to contribute to this list (please do), send me a pull request or [c
 * 📌 [Seeing Theory](https://seeing-theory.brown.edu/) - A visual introduction to probability and statistics. Also, includes a textbook called "Seeing Theory"
 * ✅ [wevi: Word Embedding Visual Inspector](https://ronxin.github.io/wevi/)
 * ✅ [AI/ML Cheatsheets for Stanford/MIT Courses](https://stanford.edu/~shervine/)
+* ✅ [CS 229 ― Machine Learning](https://stanford.edu/~shervine/teaching/cs-229/): A set of illustrated Machine Learning cheatsheets covering the content of the CS 229 class in Stanford
 
 ## Useful Datasets for NLP Research (e.g., text classification and sentiment analysis)
 
