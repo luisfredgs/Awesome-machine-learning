@@ -84,6 +84,7 @@ A growing curated list of machine learning books.
 ### Neural Net Drawing Libraries
 * ✅[PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet/) - generates LaTeX code for drawing neural networks for publications and presentations
 * ✅[NN-SVG generates SVGs for neural net architecture schematics](https://alexlenail.me/NN-SVG/index.html)
+
 ### Transformers and NLP
 * ✅[State-of-the-art Machine Learning for JAX, PyTorch and TensorFlow](https://github.com/huggingface/transformers)
 * 📌[BERTopic](https://github.com/MaartenGr/BERTopic) - A topic modeling technique that employs transformers and c-TF-IDF technique to create dense clusters allowing for easily interpretable topics whilst keeping important words in the topic descriptions
@@ -93,6 +94,8 @@ A growing curated list of machine learning books.
 * ✅[Koan](https://github.com/bloomberg/koan) - A word2vec negative sampling implementation with correct CBOW update
 * ✅[Apache OpenNLP](https://github.com/apache/opennlp) - a machine learning based toolkit for the processing of natural language text
 * ✅[sense2vec](https://github.com/explosion/sense2vec) - Contextually-keyed word vectors
+* ✅[Mega](https://github.com/facebookresearch/mega) - Moving Average Equipped Gated Attention. Mega is a simple, theoretically grounded, single-head gated attention mechanism equipped with (exponential) moving average to incorporate inductive bias of position-aware local dependencies into the position-agnostic attention mechanism.
+
 ### Graph AI (Hot Topic 🔥)
 Graph AI, which leverages machine learning methods to learn patterns on graph-structured data, has been a hot research topic. Graphs are a kind of data structure that models a set of objects (nodes) and their relationships (edges). The power of graph formalism lies both in its focus on relationships between points as well as in its generality. Recently, research in the graph domain with machine learning has received more and more attention because of the great expressive power of graphs. As a powerful non-Euclidean data structure for machine learning, graph draws attention to analyses that focus on node classification, link prediction, and clustering.
 * ❤️ [Pytorch Geometric](https://github.com/pyg-team/pytorch_geometric) - A library built upon PyTorch to easily write and train Graph Neural Networks (GNNs)
