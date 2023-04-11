@@ -40,17 +40,17 @@ Youtube is the largest academy in the world but sometimes the information overlo
 ## Visual Data Science & ML
 * ❤️ [Exploring transformer models](https://poloclub.github.io/dodrio/)
 * ✅ [A visual introduction to machine learning](http://www.r2d3.us/)
-* ✅ [How GPT3 Works - Visualizations and Animations](https://jalammar.github.io/how-gpt3-works-visualizations-animations/)
+* ✅ [How GPT3 Works](https://jalammar.github.io/how-gpt3-works-visualizations-animations/) - Visualizations and Animations
 * ✅ [The illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)
 * ❤️ [The Illustrated Retrieval Transformer](https://jalammar.github.io/illustrated-retrieval-transformer/)
-* 📌 [Seeing Theory - A visual introduction to probability and statistics. Also, includes a textbook called "Seeing Theory"](https://seeing-theory.brown.edu/)
+* 📌 [Seeing Theory](https://seeing-theory.brown.edu/) - A visual introduction to probability and statistics. Also, includes a textbook called "Seeing Theory"
 * ✅ [wevi: Word Embedding Visual Inspector](https://ronxin.github.io/wevi/)
 * ✅ [AI/ML Cheatsheets for Stanford/MIT Courses](https://stanford.edu/~shervine/)
 
 ## Useful Datasets for NLP Research (e.g., text classification and sentiment analysis)
 
-* ✅[B2W Reviews - A very large dataset of customer reviews released by Americanas S.A. is now available at the Hugging Face Hub](https://huggingface.co/datasets/ruanchaves/b2w-reviews01)
-* ✅[IMDb PT-BR - A version of IMDb translated to brazilian portuguese](https://www.kaggle.com/datasets/luisfredgs/imdb-ptbr)
+* ✅[B2W Reviews](https://huggingface.co/datasets/ruanchaves/b2w-reviews01) - A very large dataset of customer reviews released by Americanas S.A. is now available at the Hugging Face Hub
+* ✅[IMDb PT-BR](https://www.kaggle.com/datasets/luisfredgs/imdb-ptbr) - A version of IMDb translated to brazilian portuguese
 * ✅[Yelp 2018 in CSV](https://www.kaggle.com/datasets/luisfredgs/yelp-reviews-csv)
 * ✅[Amazon Reviews](https://cseweb.ucsd.edu/~jmcauley/datasets.html#amazon_reviews)
 
@@ -58,8 +58,8 @@ Youtube is the largest academy in the world but sometimes the information overlo
 * ✅[Document AI: LiLT a better language agnostic LayoutLM model](https://www.philschmid.de/fine-tuning-lilt)
 
 ## Personal Blogs
-* ✅[Distill.pub - A modern medium for presenting research that showcases AI/ML concepts in clear, dynamic and vivid form](https://distill.pub/)
-* ✅[Christopher Olah's Blog - OpenAI machine learning researcher who likes to understand things clearly, and explain them well](http://colah.github.io/)
+* ✅[Distill.pub](https://distill.pub/) - A modern medium for presenting research that showcases AI/ML concepts in clear, dynamic and vivid form
+* ✅[Christopher Olah's Blog](http://colah.github.io/) - OpenAI machine learning researcher who likes to understand things clearly, and explain them well
 
 ## Blog Posts
 * ✅[Multiple Classifier Systems — a brief introduction](https://medium.com/luisfredgs/multiple-classifier-systems-a-brief-introduction-71238d9c794f)
@@ -68,7 +68,7 @@ Youtube is the largest academy in the world but sometimes the information overlo
 * ✅[Autoregressive Models in Deep Learning — a Brief Survey by George Ho](https://www.georgeho.org/deep-autoregressive-models/)
 * ✅[A Brief Timeline of NLP from Bag of Words to the Transformer Family](https://medium.com/nlplanet/a-brief-timeline-of-nlp-from-bag-of-words-to-the-transformer-family-7caad8bbba56)
 * ✅[The Annotated Transformer](http://nlp.seas.harvard.edu/2018/04/03/attention.html)
-* ✅[HuggingFace: Leveraging Pre-trained Language Model Checkpoints for Encoder-Decoder Models](https://huggingface.co/blog/warm-starting-encoder-decoder)
+* ✅[HuggingFace](https://huggingface.co/blog/warm-starting-encoder-decoder) - Leveraging Pre-trained Language Model Checkpoints for Encoder-Decoder Models
 
 ## Top Machine Learning Books 📚
 * 📘[Pattern Recognition and Machine Learning — Christopher M. Bishop](http://amzn.to/2Dtjedd)
@@ -80,45 +80,45 @@ Youtube is the largest academy in the world but sometimes the information overlo
 
 ## Github Repositories
 ### Neural Net Drawing Libraries
-* ✅[PlotNeuralNet generates LaTeX code for drawing neural networks for publications and presentations](https://github.com/HarisIqbal88/PlotNeuralNet/)
+* ✅[PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet/) - generates LaTeX code for drawing neural networks for publications and presentations
 * ✅[NN-SVG generates SVGs for neural net architecture schematics](https://alexlenail.me/NN-SVG/index.html)
 ### Transformers and NLP
 * ✅[State-of-the-art Machine Learning for JAX, PyTorch and TensorFlow](https://github.com/huggingface/transformers)
-* ✅[This code implements the summarization of text documents using Latent Semantic Analysis](https://github.com/luisfredgs/LSA-Text-Summarization)
-* ✅[Extractive text summarization based on word frequencies and spacy](https://github.com/luisfredgs/extractive-text-summarization)
-* ✅[SimCSE: Simple Contrastive Learning of Sentence Embeddings](https://github.com/luisfredgs/SimCSE)
-* ✅[Koan - A word2vec negative sampling implementation with correct CBOW update](https://github.com/bloomberg/koan)
+* ✅[LSA-Text-Summarization](https://github.com/luisfredgs/LSA-Text-Summarization) - This code implements the summarization of text documents using Latent Semantic Analysis
+* ✅[extractive-text-summarization](https://github.com/luisfredgs/extractive-text-summarization) - Extractive text summarization based on word frequencies and spacy
+* ✅[SimCSE](https://github.com/luisfredgs/SimCSE) - Simple Contrastive Learning of Sentence Embeddings
+* ✅[Koan](https://github.com/bloomberg/koan) - A word2vec negative sampling implementation with correct CBOW update
 ### Graph AI (Hot Topic 🔥)
-* ❤️ [Pytorch Geometric - A library built upon PyTorch to easily write and train Graph Neural Networks (GNNs)](https://github.com/pyg-team/pytorch_geometric)
-* ❤️ [DGL library - An easy-to-use, high performance and scalable Python package for deep learning on graphs](https://github.com/dmlc/dgl)
-* ❤️ [PyGOD - a Python library for graph outlier detection (anomaly detection)](https://github.com/pygod-team/pygod)
-* ❤️ [Graph-MLPMixer - A Generalization of ViT/MLP-Mixer to Graphs](https://github.com/XiaoxinHe/Graph-MLPMixer)
-* ❤️ [StellarGraph - A Python library for machine learning on graphs and networks which offers state-of-the-art algorithms for graph machine learning, making it easy to discover patterns and answer questions about graph-structured data](https://github.com/stellargraph/stellargraph)
-* 👁️ [cuGraph - a monorepo that represents a collection of packages focused on GPU-accelerated graph analytics](https://github.com/rapidsai/cugraph)
-* ✅ [igraph - a fast and open source C library to manipulate and analyze graphs with interfaces in Python, R and C++](https://igraph.org/)
+* ❤️ [Pytorch Geometric](https://github.com/pyg-team/pytorch_geometric) - A library built upon PyTorch to easily write and train Graph Neural Networks (GNNs)
+* ❤️ [DGL library](https://github.com/dmlc/dgl) - An easy-to-use, high performance and scalable Python package for deep learning on graphs
+* ❤️ [PyGOD](https://github.com/pygod-team/pygod) - a Python library for graph outlier detection (anomaly detection)
+* ❤️ [Graph-MLPMixer](https://github.com/XiaoxinHe/Graph-MLPMixer) A Generalization of ViT/MLP-Mixer to Graphs
+* ❤️ [StellarGraph](https://github.com/stellargraph/stellargraph) A Python library for machine learning on graphs and networks which offers state-of-the-art algorithms for graph machine learning, making it easy to discover patterns and answer questions about graph-structured data
+* 👁️ [cuGraph](https://github.com/rapidsai/cugraph) - a monorepo that represents a collection of packages focused on GPU-accelerated graph analytics
+* ✅ [igraph](https://igraph.org/) - a fast and open source C library to manipulate and analyze graphs with interfaces in Python, R and C++
 
 ## Machine Learning in Rust 🦀
-* ✅[huggingface/tokenizers - The core of tokenizers, written in Rust with a focus on performance and versatility](https://github.com/huggingface/tokenizers/tree/master/tokenizers)
+* ✅[huggingface/tokenizers](https://github.com/huggingface/tokenizers/tree/master/tokenizers) - The core of tokenizers, written in Rust with a focus on performance and versatility
 * ✅[DimaKudosh/word2vec - Rust interface to word2vec](https://github.com/DimaKudosh/word2vec)
-* 📌[Linfa - Provide a comprehensive toolkit to build Machine Learning applications with Rust in spirit to Python's scikit-learn](https://github.com/rust-ml/linfa)
-* 🔥[Burn - This library aims to be a comprehensive deep-learning framework in Rust that offers exceptional flexibility for both researchers and practitioners](https://github.com/burn-rs/burn)
+* 📌[Linfa](https://github.com/rust-ml/linfa) - Provide a comprehensive toolkit to build Machine Learning applications with Rust in spirit to Python's scikit-learn
+* 🔥[Burn](https://github.com/burn-rs/burn) - This library aims to be a comprehensive deep-learning framework in Rust that offers exceptional flexibility for both researchers and practitioners
 
 ## Machine Learing in C++ 💪
-* ❤️ [mlpack - an intuitive, fast, and flexible header-only C++ machine learning library with bindings to other languages](https://github.com/mlpack/mlpack)
-* ✅ [ensmallen - a high-quality C++ library for non-linear numerical optimization, which provides many types of optimizers that can be used for virtually any numerical optimization task](https://ensmallen.org/)
-* ✅[Armadillo - C++ library for linear algebra & scientific computing. Useful for algorithm development directly in C++, or quick conversion of research code into production environments](https://arma.sourceforge.net/)
-* 📌[NumCpp: A Templatized Header Only C++ Implementation of the Python NumPy Library](https://github.com/dpilger26/NumCpp)
-* ✅[DLib - C++ toolkit containing machine learning algorithms used in both industry and academia in a wide range of domains including robotics, embedded devices, mobile phones, and large high performance computing environments.](http://dlib.net/imaging.html)
-* ✅[A deep learning framework developed with cleanliness, readability, and speed in mind](https://github.com/BVLC/caffe)
-* ✅[DyNet - A dynamic neural network library working well with networks that have dynamic structures that change for every training instance. Written in C++ with bindings in Python](https://github.com/clab/dynet)
+* ❤️ [mlpack](https://github.com/mlpack/mlpack) - an intuitive, fast, and flexible header-only C++ machine learning library with bindings to other languages
+* ✅ [ensmallen](https://ensmallen.org/) - a high-quality C++ library for non-linear numerical optimization, which provides many types of optimizers that can be used for virtually any numerical optimization task
+* ✅[Armadillo](https://arma.sourceforge.net/) - C++ library for linear algebra & scientific computing. Useful for algorithm development directly in C++, or quick conversion of research code into production environments
+* 📌[NumCpp](https://github.com/dpilger26/NumCpp) - A Templatized Header Only C++ Implementation of the Python NumPy Library
+* ✅[DLib](http://dlib.net/imaging.html) - C++ toolkit containing machine learning algorithms used in both industry and academia in a wide range of domains including robotics, embedded devices, mobile phones, and large high performance computing environments
+* ✅[Caffe](https://github.com/BVLC/caffe) - A deep learning framework developed with cleanliness, readability, and speed in mind
+* ✅[DyNet](https://github.com/clab/dynet) - A dynamic neural network library working well with networks that have dynamic structures that change for every training instance. Written in C++ with bindings in Python
 
 ## High Performance Dataframes
 * ✅[cuDF](https://github.com/rapidsai/cudf)
 * ✅[Polars: Blazingly fast DataFrames in Rust](https://github.com/pola-rs/polars)
 
 ## Statistical packages in Python
-* 📌[statannotations - Python package to optionally compute statistical test and add statistical annotations on plots generated with seaborn.](https://github.com/trevismd/statannotations)
+* 📌[statannotations](https://github.com/trevismd/statannotations) - Python package to optionally compute statistical test and add statistical annotations on plots generated with seaborn
 
 ## Time series 📈
-* ✅[sktime - a library for time series analysis in Python. It provides a unified interface for multiple time series learning tasks](https://github.com/sktime/sktime)
-* 📌[Darts - a Python library for user-friendly forecasting and anomaly detection on time series](https://github.com/unit8co/darts)
+* ✅[sktime](https://github.com/sktime/sktime) - a library for time series analysis in Python. It provides a unified interface for multiple time series learning tasks
+* 📌[Darts](https://github.com/unit8co/darts) - a Python library for user-friendly forecasting and anomaly detection on time series
