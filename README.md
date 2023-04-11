@@ -70,6 +70,7 @@ If you want to contribute to this list (please do), send me a pull request or [c
 * ✅[HuggingFace](https://huggingface.co/blog/warm-starting-encoder-decoder) - Leveraging Pre-trained Language Model Checkpoints for Encoder-Decoder Models
 
 ## Top Machine Learning Books 📚
+A growing curated list of machine learning books.
 * 📘[Pattern Recognition and Machine Learning — Christopher M. Bishop](http://amzn.to/2Dtjedd)
 * 📙[Hands-On Machine Learning with Scikit-Learn, Keras, and Tensorflow: Concepts, Tools, and Techniques to Build Intelligent Systems](https://amzn.to/3mmVDDu)
 * 📗[Deep Learning — Ian Goodfellow (print)](http://amzn.to/2DKUfjd)
