@@ -4,8 +4,6 @@ If you want to contribute to this list (please do), send me a pull request or [c
 
 ## High-quality FREE courses on Youtube
 
-Youtube is the largest academy in the world but sometimes the information overload can make it difficult to find the best materials. 
-
 * ✅[Introduction to Machine Learning](https://www.youtube.com/playlist?list=PL05umP7R6ij35ShKLDqccJSDntugY4FQT)
 * ✅[Stanford: Machine Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
 * ✅[Applied Machine Learning](https://www.youtube.com/playlist?list=PL2UML_KCiC0UlY7iCQDSiGDMovaupqc83)
