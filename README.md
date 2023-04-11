@@ -125,8 +125,8 @@ A faster run time is essential in machine learning, which explains why C++ is su
 * ✅[DyNet](https://github.com/clab/dynet) - A dynamic neural network library working well with networks that have dynamic structures that change for every training instance. Written in C++ with bindings in Python
 
 ## High Performance Dataframes
-* ✅[cuDF](https://github.com/rapidsai/cudf)
-* ✅[Polars: Blazingly fast DataFrames in Rust](https://github.com/pola-rs/polars)
+* ✅[cuDF](https://github.com/rapidsai/cudf) - Built based on the Apache Arrow columnar memory format, and with a pandas-like API that will be familiar to data engineers, cuDF is a GPU DataFrame library for loading, joining, aggregating, filtering, and otherwise manipulating data.
+* ✅[Polars: Blazingly fast DataFrames in Rust](https://github.com/pola-rs/polars) - Polars is a blazingly fast DataFrames library implemented in Rust using Apache Arrow Columnar Format as the memory model.
 
 ## Statistical packages in Python
 * 📌[statannotations](https://github.com/trevismd/statannotations) - Python package to optionally compute statistical test and add statistical annotations on plots generated with seaborn
