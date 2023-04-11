@@ -124,6 +124,7 @@ A faster run time is essential in machine learning, which explains why C++ is su
 
 ## Statistical packages in Python
 * 📌[statannotations](https://github.com/trevismd/statannotations) - Python package to optionally compute statistical test and add statistical annotations on plots generated with seaborn
+* ❤️[statsmodels](https://github.com/statsmodels/statsmodels) - Python package that provides a complement to scipy for statistical computations, and allows users to explore data, estimate statistical models, perform statistical tests, and descriptive statistics
 
 ## Time series 📈
 * ✅[sktime](https://github.com/sktime/sktime) - a library for time series analysis in Python. It provides a unified interface for multiple time series learning tasks
