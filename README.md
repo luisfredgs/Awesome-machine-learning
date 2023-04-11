@@ -125,3 +125,4 @@ A faster run time is essential in machine learning, which explains why C++ is su
 ## Time series 📈
 * ✅[sktime](https://github.com/sktime/sktime) - a library for time series analysis in Python. It provides a unified interface for multiple time series learning tasks
 * 📌[Darts](https://github.com/unit8co/darts) - a Python library for user-friendly forecasting and anomaly detection on time series
+* ✅[Prophet](https://github.com/facebook/prophet) - A procedure for forecasting time series data based on an additive model where non-linear trends are fit with yearly, weekly, and daily seasonality, plus holiday effects. It works best with time series that have strong seasonal effects.
