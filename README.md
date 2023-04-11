@@ -114,7 +114,7 @@ The Rust ML landscape is still young and better described as experimental. Never
 * 📌[Linfa](https://github.com/rust-ml/linfa) - Provide a comprehensive toolkit to build Machine Learning applications with Rust in spirit to Python's scikit-learn
 * 🔥[Burn](https://github.com/burn-rs/burn) - This library aims to be a comprehensive deep-learning framework in Rust that offers exceptional flexibility for both researchers and practitioners
 
-## Machine Learing in C++ 💪
+## Machine Learning in C++ 💪
 A faster run time is essential in machine learning, which explains why C++ is suitable for machine learning and large-scale AI applications. Nowadays, C++ is powering basically most machine learning engines.
 * ❤️ [mlpack](https://github.com/mlpack/mlpack) - an intuitive, fast, and flexible header-only C++ machine learning library with bindings to other languages
 * ✅ [ensmallen](https://ensmallen.org/) - a high-quality C++ library for non-linear numerical optimization, which provides many types of optimizers that can be used for virtually any numerical optimization task
@@ -136,3 +136,8 @@ A faster run time is essential in machine learning, which explains why C++ is su
 * ✅[sktime](https://github.com/sktime/sktime) - a library for time series analysis in Python. It provides a unified interface for multiple time series learning tasks
 * 📌[Darts](https://github.com/unit8co/darts) - a Python library for user-friendly forecasting and anomaly detection on time series
 * ✅[Prophet](https://github.com/facebook/prophet) - A procedure for forecasting time series data based on an additive model where non-linear trends are fit with yearly, weekly, and daily seasonality, plus holiday effects. It works best with time series that have strong seasonal effects.
+
+# Research Papers
+## Graph AI
+* ✅[Pure Transformers are Powerful Graph Learners](https://proceedings.neurips.cc/paper_files/paper/2022/file/5d84236751fe6d25dc06db055a3180b0-Paper-Conference.pdf) | [Code](https://github.com/jw9730/tokengt)
+* ✅[A Generalization of Transformer Networks to Graphs](https://arxiv.org/abs/2012.09699) | [Code](https://github.com/graphdeeplearning/graphtransformer)
