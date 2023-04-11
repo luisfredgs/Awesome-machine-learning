@@ -77,6 +77,7 @@ A growing curated list of machine learning books.
 * 📕[Mathematics for Machine Learning](https://amzn.to/3KnT6AN)
 * ❤️[Redes Neurais: Princípios e Prática ](https://amzn.to/3nZpq5x)
 * 📌[Graph-Powered Machine Learning (English Edition)](https://amzn.to/3mnlMlz)
+* ❤️[Python for Data Analysis, 3E](https://wesmckinney.com/book/)
 
 ## Github Repositories
 ### Neural Net Drawing Libraries
