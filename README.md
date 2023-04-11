@@ -92,6 +92,7 @@ A growing curated list of machine learning books.
 * ✅[SimCSE](https://github.com/luisfredgs/SimCSE) - Simple Contrastive Learning of Sentence Embeddings
 * ✅[Koan](https://github.com/bloomberg/koan) - A word2vec negative sampling implementation with correct CBOW update
 * ✅[Apache OpenNLP](https://github.com/apache/opennlp) - a machine learning based toolkit for the processing of natural language text
+* ✅[sense2vec](https://github.com/explosion/sense2vec) - Contextually-keyed word vectors
 ### Graph AI (Hot Topic 🔥)
 Graph AI, which leverages machine learning methods to learn patterns on graph-structured data, has been a hot research topic. Graphs are a kind of data structure that models a set of objects (nodes) and their relationships (edges). The power of graph formalism lies both in its focus on relationships between points as well as in its generality. Recently, research in the graph domain with machine learning has received more and more attention because of the great expressive power of graphs. As a powerful non-Euclidean data structure for machine learning, graph draws attention to analyses that focus on node classification, link prediction, and clustering.
 * ❤️ [Pytorch Geometric](https://github.com/pyg-team/pytorch_geometric) - A library built upon PyTorch to easily write and train Graph Neural Networks (GNNs)
