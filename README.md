@@ -97,12 +97,15 @@ If you want to contribute to this list (please do), send me a pull request or [c
 * ✅ [igraph](https://igraph.org/) - a fast and open source C library to manipulate and analyze graphs with interfaces in Python, R and C++
 
 ## Machine Learning in Rust 🦀
+The Rust ML landscape is still young and better described as experimental. Nevertheless, Rust's performance, flexibility, and unique approach to abstractions make it a promising language for building backends for Machine Learning, which is nowadays dominated by C/C++.
+
 * ✅[huggingface/tokenizers](https://github.com/huggingface/tokenizers/tree/master/tokenizers) - The core of tokenizers, written in Rust with a focus on performance and versatility
 * ✅[DimaKudosh/word2vec - Rust interface to word2vec](https://github.com/DimaKudosh/word2vec)
 * 📌[Linfa](https://github.com/rust-ml/linfa) - Provide a comprehensive toolkit to build Machine Learning applications with Rust in spirit to Python's scikit-learn
 * 🔥[Burn](https://github.com/burn-rs/burn) - This library aims to be a comprehensive deep-learning framework in Rust that offers exceptional flexibility for both researchers and practitioners
 
 ## Machine Learing in C++ 💪
+A faster run time is essential in machine learning, which explains why C++ is suitable for machine learning and large-scale AI applications. Nowadays, C++ is powering basically most machine learning engines.
 * ❤️ [mlpack](https://github.com/mlpack/mlpack) - an intuitive, fast, and flexible header-only C++ machine learning library with bindings to other languages
 * ✅ [ensmallen](https://ensmallen.org/) - a high-quality C++ library for non-linear numerical optimization, which provides many types of optimizers that can be used for virtually any numerical optimization task
 * ✅[Armadillo](https://arma.sourceforge.net/) - C++ library for linear algebra & scientific computing. Useful for algorithm development directly in C++, or quick conversion of research code into production environments
