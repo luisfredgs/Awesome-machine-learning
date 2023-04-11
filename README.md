@@ -86,6 +86,7 @@ A growing curated list of machine learning books.
 * ✅[NN-SVG generates SVGs for neural net architecture schematics](https://alexlenail.me/NN-SVG/index.html)
 ### Transformers and NLP
 * ✅[State-of-the-art Machine Learning for JAX, PyTorch and TensorFlow](https://github.com/huggingface/transformers)
+* 📌[BERTopic](https://github.com/MaartenGr/BERTopic) - A topic modeling technique that leverages 🤗 transformers and c-TF-IDF to create dense clusters allowing for easily interpretable topics whilst keeping important words in the topic descriptions
 * ✅[LSA-Text-Summarization](https://github.com/luisfredgs/LSA-Text-Summarization) - This code implements the summarization of text documents using Latent Semantic Analysis
 * ✅[extractive-text-summarization](https://github.com/luisfredgs/extractive-text-summarization) - Extractive text summarization based on word frequencies and spacy
 * ✅[SimCSE](https://github.com/luisfredgs/SimCSE) - Simple Contrastive Learning of Sentence Embeddings
