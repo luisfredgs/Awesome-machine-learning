@@ -137,6 +137,9 @@ A faster run time is essential in machine learning, which explains why C++ is su
 * 📌[Darts](https://github.com/unit8co/darts) - a Python library for user-friendly forecasting and anomaly detection on time series
 * ✅[Prophet](https://github.com/facebook/prophet) - A procedure for forecasting time series data based on an additive model where non-linear trends are fit with yearly, weekly, and daily seasonality, plus holiday effects. It works best with time series that have strong seasonal effects.
 
+## Causal Inference methods
+* ✅[CausalML](https://github.com/uber/causalml) - a Python package that provides a suite of uplift modeling and causal inference methods using machine learning algorithms.
+
 # Research Papers
 ## Graph AI
 * ✅[Pure Transformers are Powerful Graph Learners](https://proceedings.neurips.cc/paper_files/paper/2022/file/5d84236751fe6d25dc06db055a3180b0-Paper-Conference.pdf) | [Code](https://github.com/jw9730/tokengt)
