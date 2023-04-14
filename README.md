@@ -139,6 +139,7 @@ A faster run time is essential in machine learning, which explains why C++ is su
 
 ## Causal Inference methods
 * ✅[CausalML](https://github.com/uber/causalml) - a Python package that provides a suite of uplift modeling and causal inference methods using machine learning algorithms.
+* ✅[BiomedSciAI/causallib](https://github.com/BiomedSciAI/causallib) - Enables estimating the causal effect of an intervention on some outcome from real-world non-experimental observational data
 
 # Research Papers
 ## Graph AI
