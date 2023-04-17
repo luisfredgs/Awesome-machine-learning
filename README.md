@@ -105,6 +105,7 @@ Graph AI, which leverages machine learning methods to learn patterns on graph-st
 * ❤️ [StellarGraph](https://github.com/stellargraph/stellargraph) A Python library for machine learning on graphs and networks which offers state-of-the-art algorithms for graph machine learning, making it easy to discover patterns and answer questions about graph-structured data
 * 👁️ [cuGraph](https://github.com/rapidsai/cugraph) - a monorepo that represents a collection of packages focused on GPU-accelerated graph analytics
 * ✅ [igraph](https://igraph.org/) - a fast and open source C library to manipulate and analyze graphs with interfaces in Python, R and C++
+* ✅[Karate Club](https://github.com/benedekrozemberczki/karateclub) - an unsupervised machine learning extension library for [NetworkX](https://networkx.github.io/). Karate Club consists of state-of-the-art methods to do unsupervised learning on graph structured data. According to the authors, it is a Swiss Army knife for small-scale graph mining research.
 
 ## Machine Learning in Rust 🦀
 The Rust ML landscape is still young and better described as experimental. Nevertheless, Rust's performance, flexibility, and unique approach to abstractions make it a promising language for building backends for Machine Learning, which is nowadays dominated by C/C++.
