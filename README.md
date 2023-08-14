@@ -142,6 +142,12 @@ A faster run time is essential in machine learning, which explains why C++ is su
 * ✅[CausalML](https://github.com/uber/causalml) - a Python package that provides a suite of uplift modeling and causal inference methods using machine learning algorithms.
 * ✅[BiomedSciAI/causallib](https://github.com/BiomedSciAI/causallib) - Enables estimating the causal effect of an intervention on some outcome from real-world non-experimental observational data
 
+# Deep learning on Tabular Data
+
+* ✅ https://github.com/somepago/saint
+* ✅ https://github.com/nusdbsystem/ARM-Net
+* ✅ https://github.com/CahidArda/tab-transformer-keras
+
 # Research Papers
 ## Graph AI
 * ✅[Pure Transformers are Powerful Graph Learners](https://proceedings.neurips.cc/paper_files/paper/2022/file/5d84236751fe6d25dc06db055a3180b0-Paper-Conference.pdf) | [Code](https://github.com/jw9730/tokengt)
