@@ -144,7 +144,7 @@ A faster run time is essential in machine learning, which explains why C++ is su
 
 # Deep learning on Tabular Data
 
-* ✅ [SAINT]([SAINT](https://github.com/somepago/saint)) - Improved Neural Networks for Tabular Data via Row Attention and Contrastive Pre-Training.
+* ✅ [SAINT](https://github.com/somepago/saint) - Improved Neural Networks for Tabular Data via Row Attention and Contrastive Pre-Training.
 * ✅ [ARM-Net](https://github.com/nusdbsystem/ARM-Net) - Adaptive Relation Modeling Network for Structured Data.
 * ✅ [TabTransformer](https://github.com/CahidArda/tab-transformer-keras) - A implementation in Keras of TabTansformer, an attention network for tabular data.
 
