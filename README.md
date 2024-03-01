@@ -1,5 +1,5 @@
 # Awesome Machine Learning
-This repository compiles several knowledge sources about Data Science and Machine Learning. The curated list contains videos, blog posts, textbooks, GitHub, and more. If you find this repository helpful, please consider giving it a star! Your support will help me to improve and maintain this project. Thank you! 🌟🌟🌟🌟🌟
+This repository is a compilation of various sources of knowledge related to Data Science and Machine Learning. The list includes curated videos, blog posts, textbooks, GitHub repositories, and more. If you find this repository helpful, kindly consider giving it a star! Your support would aid me in improving and maintaining this project. Thank you for your time! 🌟🌟🌟🌟🌟
 
 If you want to contribute to this list (please do), send me a pull request or [contact me](https://www.linkedin.com/in/luisfredgs).
 
@@ -104,9 +104,9 @@ Graph AI, which leverages machine learning methods to learn patterns on graph-st
 * ❤️ [PyGOD](https://github.com/pygod-team/pygod) - a Python library for graph outlier detection (anomaly detection)
 * ❤️ [Graph-MLPMixer](https://github.com/XiaoxinHe/Graph-MLPMixer) A Generalization of ViT/MLP-Mixer to Graphs
 * ❤️ [StellarGraph](https://github.com/stellargraph/stellargraph) A Python library for machine learning on graphs and networks which offers state-of-the-art algorithms for graph machine learning, making it easy to discover patterns and answer questions about graph-structured data
-* 👁️ [cuGraph](https://github.com/rapidsai/cugraph) - a monorepo that represents a collection of packages focused on GPU-accelerated graph analytics
-* ✅ [igraph](https://igraph.org/) - a fast and open source C library to manipulate and analyze graphs with interfaces in Python, R and C++
-* ✅[Karate Club](https://github.com/benedekrozemberczki/karateclub) - an unsupervised machine learning extension library for [NetworkX](https://networkx.github.io/). Karate Club consists of state-of-the-art methods to do unsupervised learning on graph structured data. According to the authors, it is a Swiss Army knife for small-scale graph mining research.
+* 👁️ [cuGraph](https://github.com/rapidsai/cugraph) - Represents a collection of packages focused on GPU-accelerated graph analytics
+* ✅ [igraph](https://igraph.org/) - a fast and open-source C library to manipulate and analyze graphs with interfaces in Python, R and C++
+* ✅[Karate Club](https://github.com/benedekrozemberczki/karateclub) - an unsupervised machine learning extension library for [NetworkX](https://networkx.github.io/). Karate Club consists of state-of-the-art methods to do unsupervised learning on graph-structured data. According to the authors, it is a Swiss Army knife for small-scale graph mining research.
 
 ## Machine Learning in Rust 🦀
 The Rust ML landscape is still young and better described as experimental. Nevertheless, Rust's performance, flexibility, and unique approach to abstractions make it a promising language for building backends for Machine Learning, which is nowadays dominated by C/C++.
@@ -117,10 +117,10 @@ The Rust ML landscape is still young and better described as experimental. Never
 * 🔥[Burn](https://github.com/burn-rs/burn) - This library aims to be a comprehensive deep-learning framework in Rust that offers exceptional flexibility for both researchers and practitioners
 
 ## Machine Learning in C++ 💪
-A faster run time is essential in machine learning, which explains why C++ is suitable for machine learning and large-scale AI applications. Nowadays, C++ is powering basically most machine learning engines.
+A faster run time is essential in machine learning, which explains why C++ is suitable for machine learning and large-scale AI applications. Nowadays, C++ is powering most machine learning engines.
 * ❤️ [mlpack](https://github.com/mlpack/mlpack) - an intuitive, fast, and flexible header-only C++ machine learning library with bindings to other languages
 * ✅ [ensmallen](https://ensmallen.org/) - a high-quality C++ library for non-linear numerical optimization, which provides many types of optimizers that can be used for virtually any numerical optimization task
-* ✅[Armadillo](https://arma.sourceforge.net/) - C++ library for linear algebra & scientific computing. Useful for algorithm development directly in C++, or quick conversion of research code into production environments
+* ✅[Armadillo](https://arma.sourceforge.net/) - C++ library for linear algebra & scientific computing. Useful for algorithm development directly in C++ or quick conversion of research code into production environments
 * 📌[NumCpp](https://github.com/dpilger26/NumCpp) - A Templatized Header Only C++ Implementation of the Python NumPy Library
 * ✅[DLib](http://dlib.net/imaging.html) - C++ toolkit containing machine learning algorithms used in both industry and academia in a wide range of domains including robotics, embedded devices, mobile phones, and large high performance computing environments
 * ✅[Caffe](https://github.com/BVLC/caffe) - A deep learning framework developed with cleanliness, readability, and speed in mind
