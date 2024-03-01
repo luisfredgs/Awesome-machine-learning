@@ -1,3 +1,4 @@
+# Awesome Machine Learning
 This repository compiles several knowledge sources about Data Science and Machine Learning. The curated list contains videos, blog posts, textbooks, GitHub, and more. If you find this repository helpful, please consider giving it a star! Your support will help me to improve and maintain this project. Thank you! 🌟🌟🌟🌟🌟
 
 If you want to contribute to this list (please do), send me a pull request or [contact me](https://www.linkedin.com/in/luisfredgs).
